@@ -1,1 +1,2 @@
-pub mod sword;
+pub mod common;
+pub mod equip;
